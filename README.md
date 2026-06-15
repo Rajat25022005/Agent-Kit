@@ -1,9 +1,9 @@
 <div align="center">
 
-# Agent Skills
+# AgentKit
 
-**A curated collection of 66 agent skills across 16 domains,**
-**designed for autonomous AI agents and assistants.**
+**A curated, open collection of 66+ modular skills across 16 domains --**
+**plug-and-play capabilities for autonomous AI agents.**
 
 ---
 
@@ -16,9 +16,9 @@
 
 ## Overview
 
-This repository is a structured library of reusable agent skills -- modular capabilities that can be composed, extended, and executed by AI-powered systems. Each skill is self-contained within its own directory and includes documentation, references, and implementation details.
+AgentKit is a structured library of reusable agent skills -- modular capabilities that can be composed, extended, and executed by AI-powered systems. Each skill is self-contained within its own directory and includes documentation, references, and implementation details.
 
-Skills are organized into **domain-specific categories**, making it easy to discover, contribute, and integrate new capabilities.
+Stop rebuilding agent capabilities from scratch. Discover what exists, extend what's useful, and contribute what's missing.
 
 ---
 
